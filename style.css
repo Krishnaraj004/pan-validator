@@ -1,0 +1,23 @@
+.form{
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: gainsboro;
+    margin-top: 30px;
+}
+.form button{
+    margin-top: 50px;
+    width: 80px;
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    text-transform: uppercase;
+    height: 30px;
+
+}
+.form label,input{
+    margin-top: 40px;
+}
